@@ -19,13 +19,13 @@ I'm a Senior Engineer at a telematics insurance company, leading and delivering 
 | Cloud Platforms          | AWS, Cloudflare, Azure                           |
 | IaC & Config Mgmt        | CDK/Cloudformation, Terraform, Ansible           |
 | CICD                     | AWS Codepipeline, CircleCI, GitHub Actions       |
-| Containers/Orchestration | Docker, AWS ECS + ECR                            |
+| Containers/Orchestration | Docker, AWS ECS + ECR, Lambda                    |
 | Security & Compliance    | Trivy, Grype, Syft                               |
 | Performance              | Hyperfine, Apache Benchmark                      |
 | AI Integration & Tooling | Claude API, GitHub Copilot                       |
 | Source Control           | Git, GitHub                                      |
-| Collaboration & Design   | Jira, Lucidchart, Excalidraw                     |
-| Productivity             | Neovim, Mise, AWS Vault, AWS CLI                 |
+| Collaboration & Design   | Jira, Lucidchart, Draw.io                        |
+| Productivity             | Neovim, Mise, AWS Vault, Zellij, Starship        |
 
 ---
 
