@@ -1,13 +1,6 @@
 ## Nice to meet you, my name is Gabor
 
-I'm a Senior Engineer at a telematics insurance company, leading and delivering **cloud-native** solutions through their entire lifecycle - _from design and planning to implementation and operations_ - with emphasis on automation, observability, and cost optimization.
-
-**What I work on:**
-
-- Automating business processes (underwriting, pricing, risk)
-- Integrating third-party vendors
-- Processing driving data at scale
-- Building data pipelines for analytics
+I'm a Senior Engineer at a telematics insurance company, leading and delivering **cloud-native** solutions with emphasis on automation, observability, and cost optimization.
 
 ---
 
@@ -31,7 +24,7 @@ I'm a Senior Engineer at a telematics insurance company, leading and delivering 
 
 ## Hobbytime tech
 
-### Networking
+### Network protocols and architecture
 
 I love making things talk to each other over the wire, both physical hardware and network protocols.
 
