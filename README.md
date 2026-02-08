@@ -1,6 +1,6 @@
 ## Nice to meet you, my name is Gabor
 
-I'm a Senior Engineer at a telematics insurance company, leading and delivering **cloud-native** solutions with emphasis on automation, observability, and cost optimization.
+Senior Backend Engineer at a telematics insurance company. I lead backend projects end-to-end - scoping work with stakeholders, coordinating with external vendors, and guiding mid-to-junior engineers along the way. I'm hands-on with the implementation and like to work with my fellow engineers solving problems.
 
 ---
 
@@ -12,12 +12,13 @@ I'm a Senior Engineer at a telematics insurance company, leading and delivering 
 | Cloud Platforms          | AWS, Cloudflare, Azure                           |
 | IaC & Config Mgmt        | CDK/Cloudformation, Terraform, Ansible           |
 | CICD                     | AWS Codepipeline, CircleCI, GitHub Actions       |
-| Containers/Orchestration | Docker, AWS ECS + ECR, Lambda                    |
+| Containers/Orchestration | Lambda, Docker, AWS ECS + ECR                    |
 | Security & Compliance    | Trivy, Grype, Syft                               |
 | Performance              | Hyperfine, Apache Benchmark                      |
+| Observability            | CloudWatch, X-Ray, Datadog                       |
+| Messaging                | SQS, SNS, EventBridge                            |
 | AI Integration & Tooling | Claude API, GitHub Copilot                       |
 | Source Control           | Git, GitHub                                      |
-| Collaboration & Design   | Jira, Lucidchart, Draw.io                        |
 | Productivity             | Neovim, Mise, AWS Vault, Zellij, Starship        |
 
 ---
