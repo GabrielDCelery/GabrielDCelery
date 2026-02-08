@@ -36,3 +36,5 @@ Always on the lookout for tools that make engineering more fun. Neovim, starship
 ### Homelab
 
 I build my own PCs and hunt for routers, switches, and components to build the mesh that serves my needs. Currently working on a hybrid cloud + on-prem solution utilizing Kubernetes for managing backups and secure accessibility from anywhere in the world. [Repo to my homelab](https://github.com/GabrielDCelery/personal-homelab).
+
+![Portfolio](./portfolio.jpg)
