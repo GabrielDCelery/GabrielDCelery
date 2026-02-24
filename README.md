@@ -1,6 +1,6 @@
 ## Nice to meet you, my name is Gabor
 
-Senior Backend Engineer at a telematics insurance company. I lead backend projects end-to-end - scoping work with stakeholders, coordinating with external vendors, and guiding mid-to-junior engineers along the way. I stay hands-on and enjoy solving problems alongside the team.
+Backend engineer with 9 years of experience, focused on cloud-native data pipelines and event-driven systems for the past 6 years. Background in Insurtech, with recent work in telematics.
 
 ---
 
